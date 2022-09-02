@@ -1,0 +1,17 @@
+p#Name {
+    color: blue;
+    text-decoration: line-through;
+ }
+ p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -ms-flow-into: calc();
+ }
+ 
+ body {
+    background-image: url('images');
+ }
+ .career {color: brown;
+    color:green
+    
+    
+
