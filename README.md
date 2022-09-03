@@ -2,7 +2,7 @@
 
 
 ## project name
-MNN-Portfolio
+GN-Portfolio
 
 
 ##	author name
@@ -15,7 +15,7 @@ An Online Portfolio
 
 ##	project setup instructions
 Clone the repository
-open the reposiry in VS Code
+open the repository in VS Code
 Serve with live server
 
 ##	live link
