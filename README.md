@@ -1,20 +1,14 @@
 # Portfolio-gn
 live link:mngethe.github.io/Portfolio-gn/
 
-
 ## project name
 GN-Portfolio
-
-
-
 
 ##	author name
 Margaret Njeri Ngethe
 
-
 ##	description of project
 An Online Portfolio
-
 
 ##	project setup instructions
 Clone the repository
