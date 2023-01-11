@@ -4,6 +4,7 @@ live link:mngethe.github.io/Portfolio-gn/
 
 ## project name
 GN-Portfolio
+
 link:mngethe.github.io/Portfolio-gn/
 
 
