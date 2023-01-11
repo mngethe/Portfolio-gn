@@ -1,8 +1,10 @@
 # Portfolio-gn
+live link:mngethe.github.io/Portfolio-gn/
 
 
 ## project name
 GN-Portfolio
+link:mngethe.github.io/Portfolio-gn/
 
 
 ##	author name
@@ -19,6 +21,6 @@ open the repository in VS Code
 Serve with live server
 
 ##	live link
-
+mngethe.github.io/Portfolio-gn/
 ##	copyright and license information
 (c) 2022  Njeri Ngethe
